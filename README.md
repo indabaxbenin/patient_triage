@@ -35,16 +35,24 @@ Runner Up: 100,000 CFA + 3-Month Internship Opportunity at Etihuku (South Africa
 
 ##### Français
 Inscription : Le hackathon est ouvert uniquement aux participants inscrits et ayant assisté à la conférence IndabaX Bénin 2023.
+
 Durée du hackathon: Le hackathon durera 27 jours.
+
 Date limite de soumission: les participants doivent soumettre leurs solutions avant le 30 Novembre 2023.
+
 Présentation: Les 5 meilleurs participants seront présélectionnés pour les présentations.
+
 Annonce: Le gagnant et le finaliste seront annoncés après les présentations.
 
 ##### English
 Registration: The hackathon is only open to the participants who registered and attended the IndabaX Benin 2023 conference.
+
 Hackathon Duration: The hackathon will span 27 days.
+
 Submission Deadline: Participants must submit their solutions by 30th November, 2023.
+
 Presentation: The top 5 participants will be shortlisted for presentations.
+
 Announcement: The Winner and Runner Up will be announced after the presentations.
 
 ## Eligibility:
